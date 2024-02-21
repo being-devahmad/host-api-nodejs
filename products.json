@@ -1,0 +1,72 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 999,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 899,
+    "featured": false,
+    "rating": 4.8,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 15",
+    "price": 1499,
+    "featured": true,
+    "rating": 4.7,
+    "company": "dell"
+  },
+  {
+    "name": "Redmi Note 11",
+    "price": 299,
+    "featured": false,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Pro",
+    "price": 1999,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Surface Laptop 4",
+    "price": 1299,
+    "featured": true,
+    "rating": 4.6,
+    "company": "microsoft"
+  },
+  {
+    "name": "iPad Air",
+    "price": 599,
+    "featured": false,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "Google Pixel 6",
+    "price": 799,
+    "featured": true,
+    "rating": 4.8,
+    "company": "google"
+  },
+  {
+    "name": "ThinkPad X1 Carbon",
+    "price": 1599,
+    "featured": false,
+    "rating": 4.7,
+    "company": "lenovo"
+  },
+  {
+    "name": "ThinkPad T14",
+    "price": 1299,
+    "featured": false,
+    "rating": 4.6,
+    "company": "lenovo"
+  }
+]
